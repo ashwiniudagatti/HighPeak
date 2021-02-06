@@ -1,0 +1,7 @@
+Number of the employees: 1
+
+Here the goodies that are selected for distribution are:
+
+Macbook Pro: 229900
+
+And the difference between the chosen goodie with highest price and the lowest price is 0
